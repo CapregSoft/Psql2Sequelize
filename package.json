@@ -1,0 +1,27 @@
+{
+  "name": "psql2sequelize",
+  "version": "0.0.0",
+  "description": "A npm package which can take SQL queries and can automatically create the JavaScript Sequelize from raw SQL queries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapregSoft/Psql2Sequelize.git"
+  },
+  "keywords": [
+    "psql",
+    "sql",
+    "postgres",
+    "automation",
+    "psql2sequelize",
+    "psqltoseqeulize"
+  ],
+  "author": "CapregSoft",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CapregSoft/Psql2Sequelize/issues"
+  },
+  "homepage": "https://github.com/CapregSoft/Psql2Sequelize#readme"
+}
