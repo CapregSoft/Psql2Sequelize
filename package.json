@@ -1,5 +1,5 @@
 {
-  "name": "psql2sequelize",
+  "name": "@CapregSoft/psql2sequelize",
   "version": "0.0.0",
   "description": "A npm package which can take SQL queries and can automatically create the JavaScript Sequelize from raw SQL queries.",
   "main": "index.js",
